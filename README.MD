@@ -21,14 +21,14 @@ a web map with marks of movie locations shot in the year chosen by the user.
 
 ******************************HTML file structure******************************
 
-- <!DOCTYPE html> - Defines the document's type.
-- <head> - Gives information about the map(it's name).
-- <body> - Defines the document's body part .
-- <meta> - Provides metadata(data about data) of a web map.
-- <link> - Defines a link between a map and external resources.
-- <script> - Contains information about a script or contains links to another script file.
-- <style> - Defines the style of the map.
-- <div> - Defines division of a section on our map
+- \<!DOCTYPE html\> - Defines the document's type.
+- \<head\> - Gives information about the map(it's name).
+- \<body\> - Defines the document's body part .
+- \<meta\> - Provides metadata(data about data) of a web map.
+- \<link\> - Defines a link between a map and external resources.
+- \<script\> - Contains information about a script or contains links to another script file.
+- \<style\> - Defines the style of the map.
+- \<div\> - Defines division of a section on our map
 
 ******************************Conclusion******************************
 
